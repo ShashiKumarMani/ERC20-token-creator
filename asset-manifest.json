@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ERC20-token-creator/static/js/main.dc4394a9.chunk.js",
+    "main.js.map": "/ERC20-token-creator/static/js/main.dc4394a9.chunk.js.map",
+    "runtime-main.js": "/ERC20-token-creator/static/js/runtime-main.87e10f26.js",
+    "runtime-main.js.map": "/ERC20-token-creator/static/js/runtime-main.87e10f26.js.map",
+    "static/js/2.4af352ef.chunk.js": "/ERC20-token-creator/static/js/2.4af352ef.chunk.js",
+    "static/js/2.4af352ef.chunk.js.map": "/ERC20-token-creator/static/js/2.4af352ef.chunk.js.map",
+    "index.html": "/ERC20-token-creator/index.html",
+    "static/js/2.4af352ef.chunk.js.LICENSE.txt": "/ERC20-token-creator/static/js/2.4af352ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87e10f26.js",
+    "static/js/2.4af352ef.chunk.js",
+    "static/js/main.dc4394a9.chunk.js"
+  ]
+}
